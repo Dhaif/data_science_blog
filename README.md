@@ -11,7 +11,7 @@ Hi there, it’s Dhaif, and welcome to my website repository ! You will find a t
 
 This repository is organised by folder, each folder contain the code and a Readme with the link to the corresponding article on my Website. I recommend to use [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html), which extend the traditional uses of Jupyter Notebook by adding components such as file navigation, a terminal and so on. It is very flexible and easy to use, and it has a very rich ecosystem of third party extension that allow you to customnize JupyterLab to your need.
 
-Because the notebook I usually propose are organised in section, one particular extension is [Collapsible_Headings](https://github.com/aquirdTurtle/Collapsible_Headings) that allow you to toggle the different section in the notebook.
+Because the notebook I usually propose are organised in section, one particular useful extension is [Collapsible_Headings](https://github.com/aquirdTurtle/Collapsible_Headings) that allow you to toggle the different section in the notebook.
 
 ## 🤝 Contributing
 
