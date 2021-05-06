@@ -21,9 +21,9 @@ I will check regularly that the code is up to date, but if you spot a issue, fee
 
 Feel free to contact me on my socials:
 
-- Linkedin:
-- Youtube: 
-- My website: 
+- [Linkedin](https://www.linkedin.com/in/dhaifbekha/)
+- [Youtube](#)
+- [My website](#) 
 
 ## Show your support
 
@@ -31,5 +31,5 @@ Please ⭐️ this repository if this project helped you!
 
 ## 📝 License
 
-
---
+Copyright (c) 2021, Dhaif <br>
+All rights reserved. Check license [here](https://github.com/Dhaif/data_science_blog/blob/main/LICENSE).
