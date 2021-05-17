@@ -29,7 +29,7 @@ Feel free to contact me on my socials:
 
 ## Show your support
 
-Please ⭐️  this repository if this project helped you!
+Please  ⭐️  this repository if this project helped you!
 
 ## 📝 License
 
