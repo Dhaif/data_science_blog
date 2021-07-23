@@ -12,5 +12,4 @@ folder containing the CSV file used in the article.
 Feel free to contact me on my socials:
 
 - [Linkedin](https://www.linkedin.com/in/dhaifbekha/)
-- [Youtube](#)
-- [My website](#) 
+- [My website](https://dhaifbekha.co.uk/) 
