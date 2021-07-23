@@ -24,12 +24,11 @@ I will check regularly that the code is up to date, but if you spot a issue, fee
 Feel free to contact me on my socials:
 
 - [Linkedin](https://www.linkedin.com/in/dhaifbekha/)
-- [Youtube](#)
-- [My website](#) 
+- [My website](https://dhaifbekha.co.uk/) 
 
 ## Show your support
 
-Please ⭐️ this repository if this project helped you!
+Please  ⭐️  this repository if this project helped you!
 
 ## 📝 License
 
