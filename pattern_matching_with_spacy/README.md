@@ -3,7 +3,7 @@
 
 ## 🧠 Context
 
-This folder contains a Jupyter-Notebooks related to [this article](https://dhaifbekha.co.uk//articles/pattern-matching-with-spacy) on my Website.
+This folder contains a Jupyter-Notebooks related to [this article](https://dhaifbekha.co.uk/articles/pattern-matching-with-spacy) on my Website.
 
 ## Author
 
